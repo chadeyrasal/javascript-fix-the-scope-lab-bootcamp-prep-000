@@ -31,4 +31,3 @@ var funkyFunction = function() {
 funkyFunction()
 var theFunk = funkyFunction()
 theFunk()
-funkyFunction() = theFunk()
