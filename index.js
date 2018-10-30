@@ -31,4 +31,4 @@ var funkyFunction = function() {
 funkyFunction()
 var theFunk = funkyFunction()
 theFunk()
-function = theFunk()
+function === theFunk()
